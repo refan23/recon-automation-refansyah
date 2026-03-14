@@ -143,4 +143,6 @@ Output yang ditampilkan berisi URL host yang aktif beserta status code HTTP.
 
 ## 9. Menampilkan File Log
 
+Pada langkah ini dilakukan pengecekan terhadap file log yang tersimpan pada folder logs. File progress.log berisi catatan aktivitas selama proses recon berjalan, seperti waktu mulai recon, domain yang sedang diproses, proses pengecekan live hosts, serta jumlah subdomain dan live hosts yang ditemukan.
+
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/File%20Log.png?raw=true)
