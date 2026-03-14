@@ -5,3 +5,19 @@ Project ini merupakan automation tool sederhana untuk melakukan proses reconnais
 Automation ini dibuat untuk mempercepat proses recon sehingga tidak perlu melakukan pengecekan secara manual pada setiap domain.
 
 ---
+## Tools yang Digunakan
+
+Tools yang digunakan dalam project ini:
+
+- Bash
+- Subfinder
+- Httpx
+- Anew
+- Git
+- Kali Linux
+
+---
+
+## Setup Environment
+go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+
