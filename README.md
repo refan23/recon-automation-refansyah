@@ -28,3 +28,7 @@ go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 ### Install anew
 go install -v github.com/tomnomnom/anew@latest
 
+---
+
+## Cara Menjalankan Script
+Masuk ke folder project:
