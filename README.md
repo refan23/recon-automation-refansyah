@@ -143,4 +143,4 @@ Output yang ditampilkan berisi URL host yang aktif beserta status code HTTP.
 
 ## 9. Menampilkan File Log
 
-![alt text](?raw=true)
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/File%20Log.png?raw=true)
