@@ -19,5 +19,10 @@ Tools yang digunakan dalam project ini:
 ---
 
 ## Setup Environment
+
+Instalasi tools pendukung via Go: salin dan jalankan perintah berikut pada terminal Anda
+
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+go install -v github.com/tomnomnom/anew@latest
 
