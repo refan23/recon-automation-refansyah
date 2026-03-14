@@ -122,7 +122,7 @@ Ketika script dijalankan, proses recon akan berjalan secara otomatis mulai dari 
 
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/eksekusi%20script%20recon.png?raw=true)
 
-![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/eksekusi%20script%20recon.png?raw=true)
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/eksekusi%20script%20recon%202.png?raw=true)
 
 
 
