@@ -65,6 +65,26 @@ Pada langkah ini file domains.txt dibuka menggunakan text editor nano untuk mena
 
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/domain.txt.png?raw=true)
 
+Domain-domain tersebut kemudian akan diproses oleh script untuk mencari subdomain.
+
+## 4. Membuat Script Automation Recon
+
+Pada tahap ini dibuat script Bash bernama recon-auto.sh yang berada di dalam folder scripts.
+
+Script ini berfungsi untuk: 
+- membaca domain dari file domains.txt
+- mencari subdomain menggunakan subfinder
+- menghapus duplikasi menggunakan anew
+- mengecek host yang aktif menggunakan httpx
+- menyimpan hasil ke dalam file output
+- mencatat log proses scanning
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/editor%20nano%20script.png?raw=true)
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/recon-auto.sh.png?raw=true)
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/recon-auto.sh%202.png?raw=true)
+
 Berikan permission executable pada script:
 
 
