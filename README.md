@@ -111,7 +111,13 @@ Hasil yang muncul merupakan daftar subdomain yang ditemukan dari domain target.
 
 Setelah proses pengecekan menggunakan httpx, host yang aktif akan disimpan dalam file live.txt
 
-![alt text](?raw=true)
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host.png?raw=true)
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host%202.png?raw=true)
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host%203.png?raw=true)
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host%204.png?raw=true)
 
 Output yang ditampilkan berisi URL host yang aktif beserta status code HTTP.
 
