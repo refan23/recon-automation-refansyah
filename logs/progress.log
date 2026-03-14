@@ -1,0 +1,10 @@
+[ Sat Mar 14 11:07:32 AM WITA 2026 ] Recon started
+[ Sat Mar 14 11:07:32 AM WITA 2026 ] Scanning domain: hackerone.com
+[ Sat Mar 14 11:08:01 AM WITA 2026 ] Scanning domain: bugscrowd.com
+[ Sat Mar 14 11:08:04 AM WITA 2026 ] Scanning domain: yeswehack.com
+[ Sat Mar 14 11:08:23 AM WITA 2026 ] Scanning domain: synack.com
+[ Sat Mar 14 11:08:34 AM WITA 2026 ] Scanning domain: detectify.com
+[ Sat Mar 14 11:08:57 AM WITA 2026 ] Checking live hosts...
+[ Sat Mar 14 11:09:36 AM WITA 2026 ] Total Subdomains: 450
+[ Sat Mar 14 11:09:36 AM WITA 2026 ] Total Live Hosts: 249
+[ Sat Mar 14 11:09:36 AM WITA 2026 ] Recon completed
