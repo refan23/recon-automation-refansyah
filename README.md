@@ -20,13 +20,17 @@ Tools yang digunakan dalam project ini:
 
 ## Setup Environment
 
-Instalasi tools pendukung via Go: salin dan jalankan perintah berikut pada terminal Anda
+Instalasi tools pendukung via Go: salin dan jalankan perintah berikut pada terminal Anda.
 ### Install subfinder
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 ### Install httpx
 go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 ### Install anew
 go install -v github.com/tomnomnom/anew@latest
+
+Cek kembali jika tools sudah berhasil di install, bisa melalui perintah berikut.
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/Cek%20tools.png?raw=true)
 
 ---
 
