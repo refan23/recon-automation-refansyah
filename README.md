@@ -50,8 +50,12 @@ Folder yang dibuat antara lain:
 - output
 - scripts
 - logs
+
 Kemudian dibuat juga beberapa file yang akan digunakan dalam proses recon seperti :
 domains.txt, live.txt, all-subdomains.txt, progress.log, errors.log, dan recon-auto.sh.
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/Struktur%20folder%20projek.png?raw=true)
+
 
 Berikan permission executable pada script:
 
