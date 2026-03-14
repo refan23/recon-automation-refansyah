@@ -81,6 +81,10 @@ Script ini berfungsi untuk:
 
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/editor%20nano%20script.png?raw=true)
 
+Pada bagian ini dimasukkan kode Bash yang berfungsi untuk menjalankan proses automation recon.
+Script tersebut akan membaca domain satu per satu dari file domains.txt, kemudian menjalankan tool subfinder untuk mencari subdomain. Hasil subdomain akan diproses menggunakan anew untuk menghindari duplikasi.
+Setelah semua subdomain terkumpul, tool httpx digunakan untuk mengecek apakah subdomain tersebut memiliki web server yang aktif.
+
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/recon-auto.sh.png?raw=true)
 
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/recon-auto.sh%202.png?raw=true)
