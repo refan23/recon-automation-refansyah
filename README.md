@@ -34,3 +34,31 @@ go install -v github.com/tomnomnom/anew@latest
 Masuk ke folder project:
 
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/Direktori%20recon-automation.png?raw=true)
+
+Berikan permission executable pada script:
+
+
+
+
+
+
+
+
+
+Jalankan script:
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/Direktori%20recon-automation.png?raw=true)
+
+Script akan melakukan proses berikut:
+
+1. Membaca domain dari file `domains.txt`
+2. Mencari subdomain menggunakan **subfinder**
+3. Menghapus duplikasi menggunakan **anew**
+4. Mengecek host yang aktif menggunakan **httpx**
+5. Menyimpan hasil ke file output
+
+---
+
+# Contoh Input
+
+File: `input/domains.txt`
