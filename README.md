@@ -118,7 +118,13 @@ Output yang ditampilkan berisi URL host yang aktif beserta status code HTTP.
 
 ## 8. Menjalankan Script Recon
 
-Ketika script dijalankan, proses recon akan berjalan secara otomatis mulai dari pencarian subdomain hingga pengecekan host yang aktif.
+Ketika script dijalankan, script akan melakukan proses berikut:
+
+1. Membaca domain dari file `domains.txt`
+2. Mencari subdomain menggunakan **subfinder**
+3. Menghapus duplikasi menggunakan **anew**
+4. Mengecek host yang aktif menggunakan **httpx**
+5. Menyimpan hasil ke file output
 
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/eksekusi%20script%20recon.png?raw=true)
 
@@ -130,23 +136,6 @@ Ketika script dijalankan, proses recon akan berjalan secara otomatis mulai dari 
 
 Setelah seluruh proses selesai, script akan menampilkan informasi jumlah subdomain yang ditemukan serta jumlah host yang aktif.
 
-
-
-
-
-
-
-Jalankan script:
-
-![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/Direktori%20recon-automation.png?raw=true)
-
-Script akan melakukan proses berikut:
-
-1. Membaca domain dari file `domains.txt`
-2. Mencari subdomain menggunakan **subfinder**
-3. Menghapus duplikasi menggunakan **anew**
-4. Mengecek host yang aktif menggunakan **httpx**
-5. Menyimpan hasil ke file output
 
 ---
 
