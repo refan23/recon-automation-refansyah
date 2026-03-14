@@ -128,6 +128,7 @@ Ketika script dijalankan, proses recon akan berjalan secara otomatis mulai dari 
 
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/eksekusi%20script%20recon%204.png?raw=true)
 
+Setelah seluruh proses selesai, script akan menampilkan informasi jumlah subdomain yang ditemukan serta jumlah host yang aktif.
 
 
 
