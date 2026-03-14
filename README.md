@@ -32,3 +32,4 @@ go install -v github.com/tomnomnom/anew@latest
 
 ## Cara Menjalankan Script
 Masuk ke folder project:
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/Direktori%20recon-automation.png?raw=true)
