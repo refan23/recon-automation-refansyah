@@ -135,10 +135,3 @@ Ketika script dijalankan, script akan melakukan proses berikut:
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/eksekusi%20script%20recon%204.png?raw=true)
 
 Setelah seluruh proses selesai, script akan menampilkan informasi jumlah subdomain yang ditemukan serta jumlah host yang aktif.
-
-
----
-
-# Contoh Input
-
-File: `input/domains.txt`
