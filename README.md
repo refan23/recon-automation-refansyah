@@ -115,8 +115,14 @@ Setelah proses pengecekan menggunakan httpx, host yang aktif akan disimpan dalam
 
 Output yang ditampilkan berisi URL host yang aktif beserta status code HTTP.
 
-Berikan permission executable pada script:
 
+## 8. Menjalankan Script Recon
+
+Ketika script dijalankan, proses recon akan berjalan secara otomatis mulai dari pencarian subdomain hingga pengecekan host yang aktif.
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/eksekusi%20script%20recon.png?raw=true)
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/eksekusi%20script%20recon.png?raw=true)
 
 
 
