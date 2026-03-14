@@ -99,30 +99,7 @@ Agar script dapat dijalankan, perlu diberikan permission executable menggunakan 
 
 Jika berhasil maka file recon-auto.sh akan memiliki permission executable.
 
-## 6. Menampilkan Hasil Subdomain
-
-Setelah script dijalankan, semua subdomain yang ditemukan akan disimpan dalam file subdomain.txt.
-
-![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20subdomain.txt.png?raw=true)
-
-Hasil yang muncul merupakan daftar subdomain yang ditemukan dari domain target.
-
-## 7. Menampilkan Hasil Live Host
-
-Setelah proses pengecekan menggunakan httpx, host yang aktif akan disimpan dalam file live.txt
-
-![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host.png?raw=true)
-
-![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host%202.png?raw=true)
-
-![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host%203.png?raw=true)
-
-![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host%204.png?raw=true)
-
-Output yang ditampilkan berisi URL host yang aktif beserta status code HTTP.
-
-
-## 8. Menjalankan Script Recon
+## 6. Menjalankan Script Recon
 
 Ketika script dijalankan, script akan melakukan proses berikut:
 
@@ -141,3 +118,29 @@ Ketika script dijalankan, script akan melakukan proses berikut:
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/eksekusi%20script%20recon%204.png?raw=true)
 
 Setelah seluruh proses selesai, script akan menampilkan informasi jumlah subdomain yang ditemukan serta jumlah host yang aktif.
+
+## 7. Menampilkan Hasil Subdomain
+
+Setelah script dijalankan, semua subdomain yang ditemukan akan disimpan dalam file subdomain.txt.
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20subdomain.txt.png?raw=true)
+
+Hasil yang muncul merupakan daftar subdomain yang ditemukan dari domain target.
+
+## 8. Menampilkan Hasil Live Host
+
+Setelah proses pengecekan menggunakan httpx, host yang aktif akan disimpan dalam file live.txt
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host.png?raw=true)
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host%202.png?raw=true)
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host%203.png?raw=true)
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/hasil%20live%20host%204.png?raw=true)
+
+Output yang ditampilkan berisi URL host yang aktif beserta status code HTTP.
+
+## 9. Menampilkan File Log
+
+![alt text](?raw=true)
