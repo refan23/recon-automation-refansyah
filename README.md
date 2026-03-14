@@ -38,9 +38,20 @@ Cek kembali jika tools sudah berhasil di install, bisa melalui perintah berikut.
 ## Cara Menjalankan Script
 ## 1. Clone Repository dari GitHub
 
-Pada langkah ini dilakukan proses cloning repository dari GitHub ke dalam sistem Kali Linux menggunakan perintah git clone. Setelah repository berhasil di-clone, kemudian masuk ke dalam folder project menggunakan perintah cd
+Pada langkah ini dilakukan proses cloning repository dari GitHub ke dalam sistem Kali Linux menggunakan perintah git clone. Setelah repository berhasil di-clone, kemudian masuk ke dalam folder project menggunakan perintah cd.
 
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/Direktori%20recon-automation.png?raw=true)
+
+## 2. Membuat Struktur Folder Project
+
+Setelah masuk ke dalam folder project, langkah berikutnya adalah membuat struktur folder yang akan digunakan untuk menyimpan input, output, script, dan log.
+Folder yang dibuat antara lain:
+- input
+- output
+- scripts
+- logs
+Kemudian dibuat juga beberapa file yang akan digunakan dalam proses recon seperti :
+domains.txt, live.txt, all-subdomains.txt, progress.log, errors.log, dan recon-auto.sh.
 
 Berikan permission executable pada script:
 
