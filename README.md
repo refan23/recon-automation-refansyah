@@ -31,7 +31,8 @@ go install -v github.com/tomnomnom/anew@latest
 ---
 
 ## Cara Menjalankan Script
-Masuk ke folder project:
+1. Clone Repository dari GitHub
+Pada langkah ini dilakukan proses cloning repository dari GitHub ke dalam sistem Kali Linux menggunakan perintah git clone. Setelah repository berhasil di-clone, kemudian masuk ke dalam folder project menggunakan perintah cd
 
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/Direktori%20recon-automation.png?raw=true)
 
