@@ -45,6 +45,7 @@ Pada langkah ini dilakukan proses cloning repository dari GitHub ke dalam sistem
 ## 2. Membuat Struktur Folder Project
 
 Setelah masuk ke dalam folder project, langkah berikutnya adalah membuat struktur folder yang akan digunakan untuk menyimpan input, output, script, dan log.
+
 Folder yang dibuat antara lain:
 - input
 - output
@@ -55,7 +56,14 @@ Kemudian dibuat juga beberapa file yang akan digunakan dalam proses recon sepert
 domains.txt, live.txt, all-subdomains.txt, progress.log, errors.log, dan recon-auto.sh.
 
 ![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/Struktur%20folder%20projek.png?raw=true)
+![alt text](?raw=true)
+## 3. Menambahkan Domain Target
 
+Pada langkah ini file domains.txt dibuka menggunakan text editor nano untuk menambahkan domain yang akan digunakan sebagai target recon.
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/editor%20nano.png?raw=true)
+
+![alt text](https://github.com/refan23/recon-automation-refansyah/blob/main/img/domain.txt.png?raw=true)
 
 Berikan permission executable pada script:
 
